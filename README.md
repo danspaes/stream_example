@@ -1,2 +1,2 @@
-# wiki_museum
+# Example on streaming data with twitter 
 
